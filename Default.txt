@@ -2,7 +2,14 @@
 Hello 
 New
 World
+new
+to
+git
 
 Text File
 
+
+Done my changes
+
 Thank You
+
